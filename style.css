@@ -1,0 +1,20 @@
+*{
+	padding: 0px;
+	margin: 0px;
+
+}
+body{
+	color:white;
+}
+header{
+	background: #415e9b;
+	height: 110px;	
+}
+button{
+	margin-top:0px;
+	background-color: black;
+	padding:3px;
+	width:80px;
+	border-radius: 2px;
+	color:white;
+}
